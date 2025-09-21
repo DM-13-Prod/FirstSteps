@@ -5,3 +5,8 @@ func feature() {
 	fmt.Println("Hello world!")
 	fmt.Println("This is my new function, with my first branch")
 }
+
+
+func merging branches() {
+	fmt.Println("This is new branch for merging")
+}
